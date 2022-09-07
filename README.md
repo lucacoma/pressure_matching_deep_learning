@@ -42,4 +42,4 @@ To compute both Normalized Reproduction Error (NRE) and Structural Similarity In
 N.B. pre-trained models used to compute the results shown in [[1]](#references) can be found in folder _models_
 
 # References
->[1] L.Comanducci, F.Antonacci, A.Sarti, Compensation of Driving Signals for Soundfield Synthesis through Irregular Loudspeaker Arrays Based on Convolutional Neural Networks [[arXiv preprint]()].
+>[1] L.Comanducci, F.Antonacci, A.Sarti, A DEEP LEARNING-BASED PRESSURE MATCHING APPROACH TO SOUNDFIELD SYNTHESIS, IWAENC 2022
